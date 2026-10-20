@@ -1,7 +1,7 @@
 === Bulk Edit YOAST SEO fields in Spreadsheet ===
 Contributors: wpsheeteditor,vegacorp,josevega
 Tags: quick edit, bulk edit, posts management, admin, pages, spreadsheet, mass edit, yoast seo, seo
-Tested up to: 6.4
+Tested up to: 7.1
 Stable tag: 1.1.8
 Requires at least: 3.6
 License: GPLv2
